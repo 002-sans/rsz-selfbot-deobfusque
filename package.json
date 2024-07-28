@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@iamtraction/google-translate": "^2.0.1",
+    "chalk": "^4.1.2",
+    "child_process": "^1.0.2",
+    "discord-backup": "^3.2.1",
+    "discord-tqr": "^1.0.4",
+    "djs-selfbot-v13": "^3.1.7",
+    "djs-stream-client": "^1.4.8",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "^0.0.1-security",
+    "glob": "^10.3.12",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.7",
+    "os": "^0.1.2",
+    "readline-sync": "^1.4.10",
+    "rsz-selfbot-project": "^3.0.2",
+    "sourcebin": "^5.0.0",
+    "weather-js": "^2.0.0"
+  }
+}
